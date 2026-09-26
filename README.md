@@ -1,0 +1,2 @@
+# Duckside
+{reponame} · Updated: {date}
